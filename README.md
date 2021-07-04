@@ -1,0 +1,2 @@
+# jQueryAluraParte1
+Repositorio do curso, QUERY: DOMINE A BIBLIOTECA MAIS POPULAR DO MERCADO PARTE 1.
